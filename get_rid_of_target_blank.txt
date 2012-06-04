@@ -1,0 +1,3 @@
+http://blogs.sitepoint.com/standards-compliant-world/
+use external file for script (script at bottom, css top)
+ids are for js, not css

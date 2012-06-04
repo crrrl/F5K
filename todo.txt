@@ -1,0 +1,15 @@
+DONE	update jQuery
+DONE	remove custom js toa  seperate file
+record hwl 
+min js and css
+min html
+DONE use external file for script (script at bottom, css top)
+ids are for js, not css
+Publish Optimized site and record hwl
+complete right side display
+use IIS tools to eliminate dead links
+Analyze for SEO
+Analyze for perf
+Look site stats
+Look at Google web tools, A/B
+

@@ -1,0 +1,32 @@
+
+I have attached the Web Images in a zip file.
+
+Color Story for the site uses the following colors:
+Orange hex:  f7931e
+Lime Green hex:  bed730
+Dark Blue/Grey hex:  3d505a
+White hex: fff
+
+Margin top: 96px
+Margin bottom: 96px
+
+I kept the page titles all the same height, but they have varying widths.  
+*If you would like the width all the same, let me know and I can re-save and re-send.
+
+I kept all the nav buttons on the right the same width (for stacking), but they do have varying heights.
+*8px padding inbetween top 10 sub-nav buttons
+*28px padding inbetween bottom 2 sub-nav buttons
+
+All body and sidebar text should be the Dark Blue/Grey hex:  3d505a
+Inline text <a> links should be the Lime Green hex:  bed730, text should be <b></b>
+Inline text <a> hover should be the Orange hex:  f7931, text should be <b></b>
+
+For the drop shadow I save it 2 different ways as I wasn't sure how you were going to code this:
+shadowtop_body.png, shadowexpand_body.png, and shadowbtm_body.png all were saved with the white body included.
+shadowtop.png, shadowexpand.png, shadowbtm.png were saved as just the shadow
+*if you need these saved a different way, let me know and I can take care of it.
+
+I will be around tomorrow, if you need an answer asap give me a shout at 206-851-1534
+
+Thank you!
+Kari

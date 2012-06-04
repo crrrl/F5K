@@ -1,0 +1,42 @@
+﻿Hi Carl,
+
+I have attached the Web Images in a zip file - there are only 9 new images as we are re-purposing most from last year.
+I have tried to note any changes.
+
+Color Story for the site uses the following colors:
+There are 2 new colors (light blue and a yellow/green), the orange from last year changed slightly and we are not using the lime green.
+
+$Orange hex:  F7941E (previously was f7931e)
+Yellow/Green hex:  E4E517 (new!)
+Dark Blue/Grey hex:  3D505A (same color as last year)
+White hex: FFFFFF
+$Light Blue:  85D5F7 (new!)
+
+23px drop shadow
+
+$Margin top: 73px (new measure)
+$Margin bottom: 140px (new measure)
+$Remove the following white type below body:  design by whitecanyondesign.com
+$All pages image titles, body color are staying the same as last year.
+$*If you need me to re-send page title images let me know
+
+$All nav buttons & padding on left sidebar are currently staying the same.
+$*I need to double check this as the right sidebar buttons for tweet, fb, register and donate have different on/off colors.
+
+$All body and sidebar text should be the Dark Blue/Grey hex:  3D505A (same as last year)
+$Inline text <a> links should be the Light Blue:  85D5F7, text should be <strong></strong> (different color from last year)
+$Inline text <a> hover should be the Yellow/Green hex:  E4E517, text should be <strong></strong> (different color from last year)
+
+Are you going to be able to integrate the drop shadow in this year?
+Can you use CSS3?
+If you need images, I will need to wait until Cindy gets back next week as the way her design file is formatted I can't separate the drop shadow.
+
+If you need anything else or have any questions, feel free to give me a shout at 206-851-1534
+Please confirm that you received.
+
+Thank you!
+Kari
+
+On Tue, Feb 14, 2012 at 8:07 AM, Carl Schmidt <cschmidt@microsoft.com> wrote:
+No problem. I’m actually pretty busy right now and may not be able to start on this for a few days anyway.
+ 
